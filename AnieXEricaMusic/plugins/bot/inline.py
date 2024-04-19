@@ -49,7 +49,7 @@ async def inline_query_handler(client, query):
 👀 <b>ᴠɪᴇᴡs :</b> <code>{views}</code>
 🎥 <b>ᴄʜᴀɴɴᴇʟ :</b> <a href={channellink}>{channel}</a>
 ⏰ <b>ᴘᴜʙʟɪsʜᴇᴅ ᴏɴ :</b> {published}
-||<a href=https://t.me/misu_owner>ᴍᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ [ᴍɪꜱᴜ]</a>||
+
 
 <u><b>➻ ɪɴʟɪɴᴇ sᴇᴀʀᴄʜ ᴍᴏᴅᴇ ʙʏ {app.name}</b></u>"""
             answers.append(
